@@ -10,7 +10,7 @@
 	--font:							"gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	--textshadow:					transparent;
 	
-	--accentcolor:					220, 20, 60;
+	--accentcolor:					79, 98, 175;
 	--accentcolor2:					var(--accentcolor);
 	--mentioncolor:					var(--accentcolor);
 	--linkcolor:					var(--accentcolor);
@@ -26,7 +26,7 @@
 	--textdarker: 					125,125,125;
 	--textdarkest: 					90,90,90;
 	
-	--background:					url(https://i.imgur.com/1BACXn0.png);
+	--background:					url(https://i.imgur.com/N4MkleD.png);
 	--backgroundposition:			center;
 	--backgroundsize:				cover;
 	--backgroundblur:				1.5px;
