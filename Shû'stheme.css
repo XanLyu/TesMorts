@@ -29,7 +29,7 @@
 	--background:					url(https://i.imgur.com/Go267QJ.png);
 	--backgroundposition:			center;
 	--backgroundsize:				cover;
-	--backgroundblur:				1.5px;
+	--backgroundblur:				2px;
 	
 	--popout:						var(--background);
 	--popoutposition:				var(--backgroundposition);
