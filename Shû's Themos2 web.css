@@ -13,6 +13,7 @@
 
 @import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
 @import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
 
 :root {
   --background-image: url('https://i.imgur.com/Go267QJ.png');
@@ -42,10 +43,12 @@
   --gradient-direction: 200deg;
   --tint-colour: 255,51,159;
   --tint-brightness: 0;
-  --font: default;
+  --font: Whitney;
   --window-padding: 0px;
   --window-roundness: 0px;
   --update-notice-1: none;
 }
 
 /* Any custom CSS below here */
+
+
