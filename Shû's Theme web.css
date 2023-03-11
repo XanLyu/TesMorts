@@ -1,4 +1,4 @@
-/**
+ /**
  * @name Shustheme
  * @author Gibbu#1211
  * @version 2.0.0
@@ -11,6 +11,7 @@
  * @BDEditor Frosted Glass
 */
 
+@import url('https://fonts.googleapis.com/css2?family=Uni+Sans:wght@100;300;400;500;700&display=swap');
 @import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
 @import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
 
@@ -42,10 +43,12 @@
   --gradient-direction: 200deg;
   --tint-colour: 255,51,159;
   --tint-brightness: 0;
-  --font: Whitney;
+  --font: Uni Sans;
   --window-padding: 0px;
   --window-roundness: 0px;
   --update-notice-1: none;
 }
 
 /* Any custom CSS below here */
+
+
