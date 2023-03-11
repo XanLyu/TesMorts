@@ -42,7 +42,7 @@
   --gradient-direction: 200deg;
   --tint-colour: 255,51,159;
   --tint-brightness: 0;
-  --font: Whitney;
+  --font: default;
   --window-padding: 0px;
   --window-roundness: 0px;
   --update-notice-1: none;
